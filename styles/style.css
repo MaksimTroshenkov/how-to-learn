@@ -34,7 +34,7 @@
 
 .header__title {
   align-self: center;
-  margin-left: 64px;
+  margin: 0 0 0 64px;
   width: 730px;
   line-height: 96px;
   font-size: 102px;
@@ -263,7 +263,7 @@
   color: #ffffff;
 }
 
-.table_theme_dark {
+.table_theme_dark {чё
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;

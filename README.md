@@ -17,7 +17,7 @@
 - Iframe
 
 ## Ссылка на проект:
-[Проект на GitHub Pages](https://rumpil666.github.io/how-to-learn/)
+[Проект на GitHub Pages](https://maksimtroshenkov.github.io/how-to-learn/)
 
 ## Статус
 Проект дорабатывается. Необходимо:
